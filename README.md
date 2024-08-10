@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shreya.
-- 🌱 I’m currently learning CSS.
+- 🌱 I’m currently learning Advancecd Javascript.
 - 📫 I can be reached with my social platforms linked here
 - 😄 Pronouns: She/her
 
