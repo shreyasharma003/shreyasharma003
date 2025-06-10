@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Shreya.
-- 🌱 I’m currently learning Advancecd Javascript.
-- 📫 I can be reached with my social platforms linked here
-- 😄 Pronouns: She/her
+ 👋 Hi, I'm Shreya Sharma!
+
+- 🌱 I'm passionate about AIML, Cybersecurity & Web Development
+- 💻 Currently exploring Full-Stack Development and DSA in Java
+- ✨ I love building things that solve problems and improve lives
+- 📫 Reach out to me via the social links below
+- 😄 Pronouns: She/Her
 
 
 <!---
